@@ -1,0 +1,8 @@
+F:\учеба\системное программирование\threatExample\threatExample\bin\Debug\threatExample.exe.config
+F:\учеба\системное программирование\threatExample\threatExample\bin\Debug\threatExample.exe
+F:\учеба\системное программирование\threatExample\threatExample\bin\Debug\threatExample.pdb
+F:\учеба\системное программирование\threatExample\threatExample\obj\Debug\threatExample.csproj.AssemblyReference.cache
+F:\учеба\системное программирование\threatExample\threatExample\obj\Debug\threatExample.csproj.SuggestedBindingRedirects.cache
+F:\учеба\системное программирование\threatExample\threatExample\obj\Debug\threatExample.csproj.CoreCompileInputs.cache
+F:\учеба\системное программирование\threatExample\threatExample\obj\Debug\threatExample.exe
+F:\учеба\системное программирование\threatExample\threatExample\obj\Debug\threatExample.pdb
